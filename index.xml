@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<motorbikes>
+    <bikes>
+        <id>OO1</id>
+        <name>Kawasaki Ninja H2r</name>
+        <price>900000</price>
+    </bikes>
+    <bikes>
+        <id>OO2</id>
+        <name>BMW</name>
+        <price>700000</price>
+    </bikes>
+    <bikes>
+        <id>OO3</id>
+        <name> KTM</name>
+        <price>800000</price>
+    </bikes>
+    <bikes>
+        <id>OO4</id>
+        <name>Cd 700</name>
+        <price>110000</price>
+    </bikes>
+    <bikes>
+        <id>OO5</id>
+        <name>Suzuki 125 </name>
+        <price>800000</price>
+    </bikes>
+</motorbikes>

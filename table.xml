@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<allproducts>
+    <products>
+        <bikes>
+            <id>OO1</id>
+            <name>Kawasaki Ninja H2r</name>
+            <price>900000</price>
+        </bikes>
+    </products>
+    <products>
+        <bikes>
+            <id>OO1</id>
+            <name>Kawasaki Ninja H2r</name>
+            <price>900000</price>
+        </bikes>
+    </products>
+    <products>
+        <bikes>
+            <id>OO1</id>
+            <name>Kawasaki Ninja H2r</name>
+            <price>900000</price>
+        </bikes>
+    </products>
+    <products>
+        <bikes>
+            <id>OO1</id>
+            <name>Kawasaki Ninja H2r</name>
+            <price>900000</price>
+        </bikes>
+    </products>
+</allproducts>
